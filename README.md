@@ -50,8 +50,9 @@ pip install -r requirements.txt
 
 `jupyter notebook`
 
-- Navigate to the notebook titled **"Start Here"**.
-- Enter your YouTube link in the designated cell.
+- Open the notebook titled `miniseconds.ipynb`
+- Navigate to the cell titled **"Start Here"**.
+- Enter your YouTube link in the cell right below it.
 
 6. **Execute the Notebook:**
 - Run all cells to process the video and generate clips.
