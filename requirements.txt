@@ -72,9 +72,11 @@ nest-asyncio
 nltk
 notebook
 notebook_shim
+numpy
 openai
 overrides
 packaging
+pandas
 pandocfilters
 parso
 pexpect
@@ -95,6 +97,7 @@ python-dateutil
 python-dotenv
 python-json-logger
 pytube
+pytz
 PyYAML
 pyzmq
 referencing
@@ -120,6 +123,7 @@ traitlets
 typer
 types-python-dateutil
 typing_extensions
+tzdata
 uri-template
 urllib3
 wcwidth
