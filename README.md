@@ -11,6 +11,8 @@ Welcome to `miniseconds`, the tool designed to transform long YouTube videos suc
 
 ## Requirements
 
+Apple Silicon is required since we use the mlx library
+
 To use `miniseconds`, you'll need access to the following APIs and services:
 - **OpenAI API:** For natural language processing capabilities.
 - **Replicate API:** For accessing and utilizing the WhisperX model.
